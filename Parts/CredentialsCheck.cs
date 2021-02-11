@@ -2,9 +2,9 @@ using System;
 using MySql.Data;
 using MySql.Data.MySqlClient;
 
-namespace Parts.Sqlcheck
+namespace Parts.CredentialsCheck
 {
-    class Sqlcheck
+    class CredentialsCheck
     {
         public static bool sql(string a, string b)
         {
