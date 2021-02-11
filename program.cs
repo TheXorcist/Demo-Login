@@ -76,12 +76,7 @@ namespace Demo_Login
                 default:
                 Console.WriteLine("Wrong Choice");
                 goto rebirth;
-                
-                    
-
-            }
-            
-
+             }
             
         }
     }
